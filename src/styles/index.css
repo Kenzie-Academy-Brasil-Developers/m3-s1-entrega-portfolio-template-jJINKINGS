@@ -1,0 +1,8 @@
+@import "./reset.css";
+@import "./global.css";
+@import "./typography.css";
+@import "./button.css";
+
+body {
+    background-color: var(--color-black);
+}

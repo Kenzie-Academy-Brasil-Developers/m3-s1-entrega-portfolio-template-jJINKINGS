@@ -1,0 +1,23 @@
+.footerContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 55rem;
+    margin: 1rem auto;
+    padding: 2rem 0rem;
+    align-items: center;
+    border-top: 1px solid var(--color-white);
+    border-bottom: 1px solid var(--color-white);
+}
+
+.divContainer {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+}
+
+.divLogo {
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+}

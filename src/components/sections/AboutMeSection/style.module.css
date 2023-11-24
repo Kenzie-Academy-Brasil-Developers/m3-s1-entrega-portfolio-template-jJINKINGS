@@ -1,0 +1,12 @@
+.sectionContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 55rem;
+    margin: 6rem auto;
+}
+
+.divTitle {
+    width: 55rem;
+}
+
