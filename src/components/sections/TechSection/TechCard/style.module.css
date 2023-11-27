@@ -1,0 +1,11 @@
+.liCard {
+    display: flex;
+    flex-direction: row;
+    gap: 1.5rem;
+    border: 1px solid var(--color-white);
+    border-radius: 1.6rem;
+    width: 17.5rem;
+    height: 5.3rem;
+    padding: 1.5rem;
+    align-items: center;
+}
